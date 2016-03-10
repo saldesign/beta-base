@@ -1,15 +1,5 @@
 >>> Milestone 1 - Idea, Brainstorming, MVP
 
-
-
-
-Inspiration
-	Untapped
-	Mountain Project
-
-
-
-
 Rock Climbing Site - New/Established Route Beta | Tick List | Rating | Comments
 	
 	Map 
@@ -30,14 +20,8 @@ Rock Climbing Site - New/Established Route Beta | Tick List | Rating | Comments
 		- Setter - First Acencionist attribution, 
 		- Comments - Anything goes
 
-
-
-
 	Log In to create climbs
 	No log in necessary to view climbs
-
-
-
 
 Potential Names:
 	Beta-base
@@ -45,46 +29,75 @@ Potential Names:
 	Route Beta
 
 
-
-
-
-
-	>>> Google Maps API
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Logo
-Utility Navigation - Find | Share | Log In/Out
+Utility Navigation - Share | Find | Log In/Out
 Primary Navigation - Home | About | Terms of Service
 Landing Page 	- Intro Section
 							- Find or Share Section
 									- How It Works
 							- Recent Ticks
 							- Recent Sets
-Find - Find a Climb you want to do or have done
-	- Region - San Diego
-	- Area - Santee boulders
-	- Sub Area - Mudball
-	- Boulder/Rock/Section of Crag - 
-	- Specific Route - Grade | Type of Climb | 
-	- 
+
+
+
+Share - Share a Climb
+
+	- State - California
+		- Region - San Diego
+			- Area - Santee Boulders
+					-	Upload Image
+					-	Title
+					-	Coordinates
+					-	Description
+				- Sub Area - Mudball Boulders
+						-	Upload Image
+						-	Title
+						-	Description
+						-	Coordinates
+					- Boulder/Rock/Section of Crag - Left Mudball Boulder
+							-	Upload Image
+							-	Title
+							-	Description
+							-	Coordinates
+						- Route - Right Crack
+								-	Upload Image
+								-	Title
+								-	Description
+								-	Type
+								-	Grade: v1-15 | 5.5-5.15
+								-	Rating: 1-5 *
+
+
+Find - Find a Climb 
+
+	- State - California
+		- Region - San Diego
+			- Area - Santee Boulders
+					-	Image
+					-	Title
+					-	Coordinates
+					-	Description
+				- Sub Area - Mudball Boulders
+						-	Image
+						-	Title
+						-	Description
+						-	Coordinates
+					- Boulder/Rock/Section of Crag - Left Mudball Boulder
+							-	Image
+							-	Title
+							-	Description
+							-	Coordinates
+						- Route - Right Crack
+								-	Image
+								-	Title
+								-	Description
+								-	Type
+								-	Grade
+								-	Rating
+								-	Tick: yes | no | to do
+										-	Rating: 1-5 *
+										-	Grade: v1-15 | 5.5-5.15
+								-	Comments
 
 
 
