@@ -1,0 +1,96 @@
+>>> Milestone 1 - Idea, Brainstorming, MVP
+
+
+
+
+Inspiration
+	Untapped
+	Mountain Project
+
+
+
+
+Rock Climbing Site - New/Established Route Beta | Tick List | Rating | Comments
+	
+	Map 
+	  - Country - State - Climbing Area - Sub Area - Specific Rock - Routes on Rock
+	  - 
+	Create a Route Functionality
+		- Map: 	Drop a pin on your climbing area
+					- Is this a sub area? Yes: Drop A pin 
+					- Drop a pin on the exact rock
+					- Upload a photo
+					- Draw beta line
+
+	Route Page Features
+		-	Description/Beta - Photo Line drawing functionality
+		-	Tick - Default=Not Climbed, Climbed, Want To CLimb
+		- Ratings - 1-5 stars
+		- Grading - Yosemite Decimal System and V-Scale 
+		- Setter - First Acencionist attribution, 
+		- Comments - Anything goes
+
+
+
+
+	Log In to create climbs
+	No log in necessary to view climbs
+
+
+
+
+Potential Names:
+	Beta-base
+	Beta Line
+	Route Beta
+
+
+
+
+
+
+	>>> Google Maps API
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logo
+Utility Navigation - Find | Share | Log In/Out
+Primary Navigation - Home | About | Terms of Service
+Landing Page 	- Intro Section
+							- Find or Share Section
+									- How It Works
+							- Recent Ticks
+							- Recent Sets
+Find - Find a Climb you want to do or have done
+	- Region - San Diego
+	- Area - Santee boulders
+	- Sub Area - Mudball
+	- Boulder/Rock/Section of Crag - 
+	- Specific Route - Grade | Type of Climb | 
+	- 
+
+
+
+
+
+
+
+
+
