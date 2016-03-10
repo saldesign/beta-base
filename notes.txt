@@ -36,12 +36,9 @@ Landing Page 	- Intro Section
 							- Find or Share Section
 									- How It Works
 							- Recent Ticks
-							- Recent Sets
-
-
+							- Recent Shares
 
 Share - Share a Climb
-
 	- State - California
 		- Region - San Diego
 			- Area - Santee Boulders
@@ -63,13 +60,12 @@ Share - Share a Climb
 								-	Upload Image
 								-	Title
 								-	Description
+								- First Ascent: Me | Unknown | Attribute First Ascent
 								-	Type
 								-	Grade: v1-15 | 5.5-5.15
 								-	Rating: 1-5 *
 
-
 Find - Find a Climb 
-
 	- State - California
 		- Region - San Diego
 			- Area - Santee Boulders
@@ -91,6 +87,7 @@ Find - Find a Climb
 								-	Image
 								-	Title
 								-	Description
+								- First Ascent
 								-	Type
 								-	Grade
 								-	Rating
