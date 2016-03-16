@@ -1,3 +1,24 @@
+>>> TO DO
+
+	>	Headline Font
+	> Button Margins and Margins between recent shares
+	> Gradients Denoting change in section 
+			EX. Gradients between Quicklinks, Aside, Main sections
+	> For MVP setter = author
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >>> Milestone 1 - Idea, Brainstorming, MVP
 
 Rock Climbing Site - New/Established Route Beta | Tick List | Rating | Comments
