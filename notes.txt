@@ -51,61 +51,84 @@ Potential Names:
 
 
 Logo
-Utility Navigation - Share | Find | Log In/Out
-Primary Navigation - Home | About | Terms of Service
-Landing Page 	- Intro Section
-							- Share or Find Section
-									- How It Works
-							- Recent Ticks Section
-									- Tick 1 - Article
-							- Recent Shares Section
-									- Share 1 - Article
+Utility Navigation - My Profile | Log In/Out
+Primary Navigation - Home | About | Share | Find
+Footer Navigation - Site Map | Social | Contact Email | Terms 
+
+
+Home - Landing Page
+	- Intro Section
+	- Share or Find Section
+			- How It Works
+			- Share | Find Buttons
+	- Set Up a Profile
+			- Monitor your ticks
+			- Share Climbs
+			- Comment on Climbst
+	- Recent Shares Section
+			- Share 1 
+				- Climb Name
+				- Grade
+				- Area
+				- Rating
+				- Author Name
+				- Description 
+				- Read More
+	- Recent Climbs Section
+			- Share 1 - Article
 
 Share - Share a Climb
-	- State - California
-		- Region - San Diego
-			- Area - Santee Boulders
-					-	Upload Image
-					-	Title
-					-	Coordinates
-					-	Description
-				- Sub Area - Mudball Boulders
-						-	Upload Image
-						-	Title
-						-	Description
-						-	Coordinates
-					- Boulder/Rock/Section of Crag - Left Mudball Boulder
+	- Intro Section
+			- Grow your online rock climbing guide by joining the online climbing community
+	- Location
+		- Share your climbs below by starting with the location of the climb 
+			- State - California
+				- Region - San Diego
+					- Area - Santee Boulders
 							-	Upload Image
 							-	Title
-							-	Description
 							-	Coordinates
-						- Route - Right Crack
+							-	Description
+						- Sub Area - Mudball Boulders
 								-	Upload Image
 								-	Title
 								-	Description
-								- First Ascent: Me | Unknown | Attribute First Ascent
-								-	Type
-								-	Grade: v1-15 | 5.5-5.15
-								-	Rating: 1-5 *
+								-	Coordinates
+							- Boulder/Rock/Section of Crag - Left Mudball Boulder
+									-	Upload Image
+									-	Title
+									-	Description
+									-	Coordinates
+								- Route - Right Crack
+										-	Upload Image
+										-	Title
+										-	Description
+										- First Ascent: Me | Unknown | Attribute First Ascent
+										-	Type
+										-	Grade: v1-15 | 5.5-5.15
+										-	Rating: 1-5 *
 
 Find - Find a Climb 
+	- Intro Section
 	- State - California
 		- Region - San Diego
 			- Area - Santee Boulders
-					-	Image
 					-	Title
+					-	Image
 					-	Coordinates
 					-	Description
+					- Highest Rated Climbs
 				- Sub Area - Mudball Boulders
-						-	Image
 						-	Title
-						-	Description
+						-	Image
 						-	Coordinates
+						-	Description
+						- Highest Rated Climbs
 					- Boulder/Rock/Section of Crag - Left Mudball Boulder
-							-	Image
 							-	Title
+							-	Image
 							-	Description
-							-	Coordinates
+							- Highest Rated Climbs
 						- Route - Right Crack
 								-	Image
 								-	Title
@@ -114,10 +137,60 @@ Find - Find a Climb
 								-	Type
 								-	Grade
 								-	Rating
+								
 								-	Tick: yes | no | to do
 										-	Rating: 1-5 *
 										-	Grade: v1-15 | 5.5-5.15
 								-	Comments
+
+
+
+>>> MVP Site Map
+
+- Share
+	- Location
+			- State
+			- Zip Code
+		- Area
+				- Area 1
+				- Area 2
+				- Area 3
+				- New Area
+						- Name
+						- Description
+						- Coordinates
+					- Climb
+							- Name
+							- Description
+							- Coordinates
+							- Type
+									- Boulder
+									- Top Rope
+									- Sport
+									- Trad
+							- Grade
+									- V0-V16
+									- 5.4 - 5.16
+							- Rating
+									- 1-5*
+							- First-Ascent
+									- Me
+									- Unknown
+									- Other
+							- Images
+						- Submit
+						- Add Another Climb
+
+
+
+
+
+
+
+
+
+
+
 
 
 
