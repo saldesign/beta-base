@@ -1,15 +1,16 @@
 >>> TO DO
-
-	>	Headline Font
-	> Button Margins and Margins between recent shares
-	> Gradients Denoting change in section 
-			EX. Gradients between Quicklinks, Aside, Main sections
-	> For MVP setter = author
-
-
-
-
-
+	>	BUGS
+		>	Null output when submitting climb
+	>	Fixes
+		>	Output search into areas and climbs which fall under the search parameters
+	>	Admin 
+		>	Edit posts
+		>	Edit comments
+		>	Interface
+		>	*Edit Profile
+	>	Upload Images to Climbs & Areas
+	>	Ratings
+	>	Redirect to submitted area or climb
 
 
 
