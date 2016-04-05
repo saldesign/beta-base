@@ -1,0 +1,72 @@
+MID TERM NOTES
+
+Comments
+	#
+	//
+	/*
+	*
+	*/
+
+Variable
+	$name = value;
+
+Constant
+	define("CONSTANT", "value");
+
+Assignment
+	=
+Comparison
+	===
+	==
+	>=
+	<=
+	<
+	>
+	!=
+Logic
+	XOR	- one of the two but not both
+	OR		- either or both		
+	AND	- both
+
+Math
+	*
+	/
+	++
+	--
+	+= sets the value plus its previous value
+	-=
+
+Concatenate
+	.
+	.= adds and sets
+
+GD library - image manipualtion functions
+
+isset returns boolean 
+
+
+/----------------$_REQUEST-------------\
+
+$_GET				$_POST				$_COOKIE				$_SESSION
+
+method="get"	method="post"		setcookie			session_start();
+ajax request 	ajax request 		expire				$_SESSION['apple']
+?name=value		?name=value			user can 			until browser closes 
+											disable				session_destroy
+
+hand code
+	SELECT
+	INSERT INTO
+	UPDATE
+
+Wildcards
+	'%bla%'		multiple unknown 	- found in any string
+	'_bla_'		single unknown 	- one character where _ are found
+
+MYSQLI			
+	$db->query()				-				
+	$result->num_rows			-		
+	$db->affected_rows		-		how many rows manipulated
+	$db->insert_id				-		last inserted item
+	$result ->fetch_assoc()	-		
+	$db->error
